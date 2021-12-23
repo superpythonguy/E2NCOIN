@@ -5,5 +5,5 @@ E2NCOIN is a Eco-friendly coin designed to be mined at home with laptops and pho
 - CLI wallet only
 - Instant transactions
 - Easy for Beginners 
-- Ticker:E2CN
+- Ticker: E2CN
 - Coin supply:infinite 
